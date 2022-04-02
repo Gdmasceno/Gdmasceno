@@ -7,7 +7,7 @@
 - ✉️ Email pessoal: dmasceno.gabriel@gmail.com
 
 <div display="flex">
-  <div align="left">
+  <div align="left" width="50%">
   <a href="https://github.com/Gdmasceno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gdmasceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gdmasceno&layout=compact&langs_count=7&theme=dracula"/>
