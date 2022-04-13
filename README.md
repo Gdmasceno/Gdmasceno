@@ -2,7 +2,7 @@
 
 
 - 🎒 Estudo ADS na faculdade Sptech
-- 💻 Focado em front-end, banco de dados e análise
+- 💻 Full-Stack WITH banco de dados
 - 😄 Pronomes: Ele/Dele
 - ✉️ Email pessoal: dmasceno.gabriel@gmail.com
 
