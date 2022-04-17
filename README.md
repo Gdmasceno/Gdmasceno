@@ -2,7 +2,7 @@
 
 
 - 🎒 Estudo ADS na faculdade Sptech
-- 💻 Full-Stack WITH banco de dados
+- 💻 Desenvolvedor Full-Stack - NodeJS | JavaScript | MySQL
 - 😄 Pronomes: Ele/Dele
 - ✉️ Email pessoal: dmasceno.gabriel@gmail.com
 
